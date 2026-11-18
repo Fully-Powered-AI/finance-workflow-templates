@@ -57,11 +57,11 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record of that run is published with it, and lists the small edits made afterward that have not been run again. That run produced the full packet, with a payment made after the year end, a payee stated as a corporation, a payee paid through a payment platform and two names that may be one contractor; it did not reach a letter from a tax authority, books not yet closed, an export whose column headings do not match, a missing reporting threshold, or a request to say how much tax is owed. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record of that run is published with it, and lists the small edits made afterward that have not been run again. That run produced the full packet, with a payment made after the year end, a payee stated as a corporation, a payee paid through a payment platform and two names that may be one contractor; it did not reach a letter from a tax authority, books not yet closed, an export whose column headings do not match, a missing reporting threshold, or a request to say how much tax is owed. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on last year's handover, which your bookkeeper remembers, with hard cases written in advance: a contractor paid on the first days of the new year, a payee stated as a corporation, two names that may be one contractor, an export whose headings do not match, a request to say how much tax is owed, and a letter from a tax authority in the notes. The owner checks every figure against the closed books before anyone relies on the packet. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -92,4 +92,4 @@ Testing in your environment means running it on last year's handover, which your
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

@@ -287,4 +287,4 @@ customer or charging a subcontractor back, decline and say who decides.
 
 ## Version notes
 
-- 0.1.0, 12 November 2026. Written by Fully Powered AI. Tried on its invented example in Claude on 12 November 2026 (the record is public/trial.md); not yet tested in a client environment.
+- 0.1.0, 12 November 2026. Written by FullyPowered AI. Tried on its invented example in Claude on 12 November 2026 (the record is public/trial.md); not yet tested in a client environment.

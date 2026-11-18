@@ -312,5 +312,5 @@ that does it, and write the question for the controller.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI. Editorially reviewed. Tried on its invented example on 9 November 2026 in two runs: the instructions were revised after the first, and the second is the run recorded. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its invented example on 9 November 2026 in two runs: the instructions were revised after the first, and the second is the run recorded. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 - 10 November 2026. Editorially reviewed again before publication. In the example, the electricity supplier on R7, whose invented name had turned out to be the trading name of a real utility, is now "Utility U", in the trial record's output as well. In the output format, the line for a stopped run now reads "Stopped: [reason]" instead of naming a step, because the instructions for the AI assistant number their steps differently from the procedure; three line breaks in those instructions were tidied, with no words changed. The recorded run did not stop, so neither change affects it.

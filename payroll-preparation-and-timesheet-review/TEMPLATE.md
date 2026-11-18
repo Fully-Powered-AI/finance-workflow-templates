@@ -312,5 +312,5 @@ or contact anyone, decline and say whose action it is.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI. Not yet tested in a client environment.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI. Not yet tested in a client environment.
 - 10 November 2026. Editorially reviewed. The closing status line of the pasted instructions restored to read as the output format has it, and the short-shift default there written as a plain figure like the other defaults. These edits and those made after the trial have not been run again; the trial record lists them.
