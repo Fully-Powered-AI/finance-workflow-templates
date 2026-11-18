@@ -18,7 +18,7 @@ The billing coordinator runs it once provisional matching is done and the clean 
 
 - The receipts log, with remittance details and bank references.
 - The provisional match results: matched, short, ambiguous or unmatched.
-- The ledger or aging export after posting, plus 30 days of postings for the duplicate check.
+- The ledger or aging export after posting, plus 30 days of postings for the duplicate check, both from your accounting system.
 - Each account lead’s notes and client correspondence: promises, queries, disputes and agreed discounts.
 - The firm’s rules for short payments, disputes and write-offs.
 
