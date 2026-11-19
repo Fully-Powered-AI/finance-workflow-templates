@@ -1,10 +1,17 @@
 # Job cost review at completion
 
-When a job closes, the controller gets one review that sets recorded labour, material, subcontract and overhead beside the estimate by cost code, shows each difference and what the job-cost records say about it, and lists the questions for the estimator and the job lead. Nothing is changed.
+When a job closes, set recorded labour, material, subcontract and overhead beside the estimate by cost code, with questions for the estimator.
 
-*Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/job-cost-review-at-completion/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Job cost review at completion on our website](https://fullypowered.ai/workflows/job-cost-review-at-completion/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-job-cost-review-at-completion&from=gh-finance-job-cost-review-at-completion) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/job-cost-review-at-completion/?from=gh-finance-job-cost-review-at-completion)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/job-cost-review-at-completion/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-job-cost-review-at-completion&from=gh-finance-job-cost-review-at-completion)*
 
 ## The outcome
 
@@ -38,15 +45,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Construction](https://fullypowered.ai/industries/construction/), where contractors close out each job against its estimate and change orders.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), for job shops that build to order and estimate every quote.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), for design-and-build and project work costed by code.
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), which owns the job-cost records and signs off the final cost.
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), where the job lead answers for what happened on the job.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where estimates are priced from experience that should be checked against real jobs.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more jobs run at once than anyone can review from memory.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-job-cost-review-at-completion&from=gh-finance-job-cost-review-at-completion), where contractors close out each job against its estimate and change orders.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-job-cost-review-at-completion&from=gh-finance-job-cost-review-at-completion), for job shops that build to order and estimate every quote.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-job-cost-review-at-completion&from=gh-finance-job-cost-review-at-completion), for design-and-build and project work costed by code.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-job-cost-review-at-completion&from=gh-finance-job-cost-review-at-completion), which owns the job-cost records and signs off the final cost.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-job-cost-review-at-completion&from=gh-finance-job-cost-review-at-completion), where the job lead answers for what happened on the job.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-job-cost-review-at-completion&from=gh-finance-job-cost-review-at-completion), where estimates are priced from experience that should be checked against real jobs.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-job-cost-review-at-completion&from=gh-finance-job-cost-review-at-completion), when more jobs run at once than anyone can review from memory.
 
-It sits beside three related workflow templates and does not replace them. [Production cost variance sheet](https://fullypowered.ai/workflows/production-cost-variance-sheet/) measures repeat production against standard costs at a plant; this one compares one finished job with its own estimate. [Engagement margin review](https://fullypowered.ai/workflows/engagement-margin-review/) looks at fees, billing and margin on a services engagement; this one works on cost alone. [Estimate basis pack](https://fullypowered.ai/workflows/estimate-basis-pack/) records where an estimate's figures came from before the bid; this review is what the estimator reads after the job is done.
+It sits beside three related workflow templates and does not replace them. [Production cost variance sheet](https://fullypowered.ai/workflows/production-cost-variance-sheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-job-cost-review-at-completion&from=gh-finance-job-cost-review-at-completion) measures repeat production against standard costs at a plant; this one compares one finished job with its own estimate. [Engagement margin review](https://fullypowered.ai/workflows/engagement-margin-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-job-cost-review-at-completion&from=gh-finance-job-cost-review-at-completion) looks at fees, billing and margin on a services engagement; this one works on cost alone. [Estimate basis pack](https://fullypowered.ai/workflows/estimate-basis-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-job-cost-review-at-completion&from=gh-finance-job-cost-review-at-completion) records where an estimate's figures came from before the bid; this review is what the estimator reads after the job is done.
 
 ## What has to change for your company
 
@@ -56,7 +63,7 @@ Map your own estimate, job-cost, change order and commitment exports to the defa
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 12 November 2026. It was tried on its invented example in Claude on 12 November 2026, and the record is published with it. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three finished jobs your controller already knows well, with cases written in advance: an approved change order, a pending one, a line with nothing recorded, an uncoded row and a header that does not match. The controller recomputes the differences by hand before anyone relies on the review. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record we keep.
+Testing in your environment means running it on two or three finished jobs your controller already knows well, with cases written in advance: an approved change order, a pending one, a line with nothing recorded, an uncoded row and a header that does not match. The controller recomputes the differences by hand before anyone relies on the review. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-job-cost-review-at-completion&from=gh-finance-job-cost-review-at-completion) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-job-cost-review-at-completion&from=gh-finance-job-cost-review-at-completion) shows the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -83,10 +90,10 @@ Testing in your environment means running it on two or three finished jobs your 
 
 ## Related workflow templates
 
-- [Production cost variance sheet](https://fullypowered.ai/workflows/production-cost-variance-sheet/)
-- [Estimate basis pack](https://fullypowered.ai/workflows/estimate-basis-pack/)
-- [Project lessons review](https://fullypowered.ai/workflows/project-lessons-review/)
+- [Production cost variance sheet](https://fullypowered.ai/workflows/production-cost-variance-sheet/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-job-cost-review-at-completion&from=gh-finance-job-cost-review-at-completion)
+- [Estimate basis pack](https://fullypowered.ai/workflows/estimate-basis-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-job-cost-review-at-completion&from=gh-finance-job-cost-review-at-completion)
+- [Project lessons review](https://fullypowered.ai/workflows/project-lessons-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-job-cost-review-at-completion&from=gh-finance-job-cost-review-at-completion)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-job-cost-review-at-completion&from=gh-finance-job-cost-review-at-completion).

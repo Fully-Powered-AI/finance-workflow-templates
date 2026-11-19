@@ -1,10 +1,17 @@
 # Spreadsheet check before sharing
 
-Before a model or schedule goes to a client, a lender or a board, the sender gets one report on it: every error value, short total, buried assumption and hidden row pinned to its cell, each with a fix or a question, and a plain list of what was not checked. Nothing in the workbook is changed.
+Before a model goes to a client, lender or board, get one report pinning errors, buried assumptions and hidden rows to their cells.
 
-*Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Spreadsheet check before sharing on our website](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-spreadsheet-check-before-sharing&from=gh-spreadsheet-check-before-sharing) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/?from=gh-spreadsheet-check-before-sharing)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-spreadsheet-check-before-sharing&from=gh-spreadsheet-check-before-sharing)*
 
 ## The outcome
 
@@ -50,13 +57,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), which sends the projections, budgets and schedules that outsiders rely on.
-- [Quality management](https://fullypowered.ai/functions/quality-management/), for any team that wants a repeatable check before work leaves the building.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where a schedule sent to a client carries the firm's name.
-- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/), where models travel to investment committees and counterparties.
-- [Real estate](https://fullypowered.ai/industries/real-estate/), where development appraisals and rent rolls go to lenders and partners.
-- [Nonprofits](https://fullypowered.ai/industries/nonprofits/), where budgets go to boards and funders who read every line.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the models were built years ago by someone else and are still sent out every quarter.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-spreadsheet-check-before-sharing&from=gh-spreadsheet-check-before-sharing), which sends the projections, budgets and schedules that outsiders rely on.
+- [Quality management](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-spreadsheet-check-before-sharing&from=gh-spreadsheet-check-before-sharing), for any team that wants a repeatable check before work leaves the building.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-spreadsheet-check-before-sharing&from=gh-spreadsheet-check-before-sharing), where a schedule sent to a client carries the firm's name.
+- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-spreadsheet-check-before-sharing&from=gh-spreadsheet-check-before-sharing), where models travel to investment committees and counterparties.
+- [Real estate](https://fullypowered.ai/industries/real-estate/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-spreadsheet-check-before-sharing&from=gh-spreadsheet-check-before-sharing), where development appraisals and rent rolls go to lenders and partners.
+- [Nonprofits](https://fullypowered.ai/industries/nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-spreadsheet-check-before-sharing&from=gh-spreadsheet-check-before-sharing), where budgets go to boards and funders who read every line.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-spreadsheet-check-before-sharing&from=gh-spreadsheet-check-before-sharing), where the models were built years ago by someone else and are still sent out every quarter.
 
 ## What has to change for your company
 
@@ -71,7 +78,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026 in one run, by a model that had not written it, on the template as it now stands; the record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three workbooks your team has already sent, with known mistakes planted in copies and written down in advance: a total one row short, a typed figure among formulas, a hidden row feeding a summary, a title with the wrong year. The model's owner confirms each finding against the workbook before anyone relies on the report. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three workbooks your team has already sent, with known mistakes planted in copies and written down in advance: a total one row short, a typed figure among formulas, a hidden row feeding a summary, a title with the wrong year. The model's owner confirms each finding against the workbook before anyone relies on the report. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-spreadsheet-check-before-sharing&from=gh-spreadsheet-check-before-sharing) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-spreadsheet-check-before-sharing&from=gh-spreadsheet-check-before-sharing) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -104,4 +111,4 @@ Testing in your environment means running it on two or three workbooks your team
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-spreadsheet-check-before-sharing&from=gh-spreadsheet-check-before-sharing).

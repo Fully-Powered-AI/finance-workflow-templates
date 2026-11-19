@@ -1,10 +1,17 @@
 # Audit preparation
 
-Before the external auditors arrive, your controller holds one audit pack: every request with its owner, date, document and status, the control evidence they will test, last year's findings and what was done, and draft answers to the questions they will ask. People approve everything before it goes.
+Turn the auditors' request list into one audit pack with owners, dates, control evidence and draft answers. People approve everything before it goes.
 
-*Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/audit-preparation/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Audit preparation on our website](https://fullypowered.ai/workflows/audit-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-audit-preparation&from=gh-finance-audit-preparation) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/audit-preparation/?from=gh-finance-audit-preparation)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/audit-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-audit-preparation&from=gh-finance-audit-preparation)*
 
 ## The outcome
 
@@ -45,14 +52,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), which owns the audit and every schedule handed over.
-- [Compliance, risk and privacy](https://fullypowered.ai/functions/compliance-risk-and-privacy/), where the controls and their evidence are kept in order between audits.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where inventory counts, equipment and lender covenants make the audit request list long.
-- [Construction](https://fullypowered.ai/industries/construction/), where sureties and lenders often ask for audited statements each year.
-- [Nonprofits](https://fullypowered.ai/industries/nonprofits/), where funders and boards often expect an annual audit from a small finance team.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where unbilled work and receivables draw the auditors' first questions.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where audit preparation lives in one long-serving person's memory and should live in a pack.
-- [Private equity & portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/), where a portfolio company faces its first full audit under new owners.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-audit-preparation&from=gh-finance-audit-preparation), which owns the audit and every schedule handed over.
+- [Compliance, risk and privacy](https://fullypowered.ai/functions/compliance-risk-and-privacy/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-audit-preparation&from=gh-finance-audit-preparation), where the controls and their evidence are kept in order between audits.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-audit-preparation&from=gh-finance-audit-preparation), where inventory counts, equipment and lender covenants make the audit request list long.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-audit-preparation&from=gh-finance-audit-preparation), where sureties and lenders often ask for audited statements each year.
+- [Nonprofits](https://fullypowered.ai/industries/nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-audit-preparation&from=gh-finance-audit-preparation), where funders and boards often expect an annual audit from a small finance team.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-audit-preparation&from=gh-finance-audit-preparation), where unbilled work and receivables draw the auditors' first questions.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-audit-preparation&from=gh-finance-audit-preparation), where audit preparation lives in one long-serving person's memory and should live in a pack.
+- [Private equity & portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-audit-preparation&from=gh-finance-audit-preparation), where a portfolio company faces its first full audit under new owners.
 
 ## What has to change for your company
 
@@ -66,7 +73,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in one run; the record of that run is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on last year's audit, which your controller remembers well, plus hard cases written in advance, each with the expected result: an item with no owner, an item marked sent with no approval, a payment approved by the person who entered it, a finding marked done with no evidence, a heading the template does not recognize. The controller checks every date and figure before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on last year's audit, which your controller remembers well, plus hard cases written in advance, each with the expected result: an item with no owner, an item marked sent with no approval, a payment approved by the person who entered it, a finding marked done with no evidence, a heading the template does not recognize. The controller checks every date and figure before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-audit-preparation&from=gh-finance-audit-preparation) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-audit-preparation&from=gh-finance-audit-preparation) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -99,4 +106,4 @@ Testing in your environment means running it on last year's audit, which your co
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-audit-preparation&from=gh-finance-audit-preparation).

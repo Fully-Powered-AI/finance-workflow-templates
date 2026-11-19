@@ -29,4 +29,4 @@ it needs a closer look, reply here and I will bring in
 [Billing coordinator]
 ```
 
-The draft for 1031, and the week it belongs to, are in [what a fully powered finance team knows before month end](https://fullypowered.ai/insights/fully-powered-finance-team/).
+The draft for 1031, and the week it belongs to, are in [what a fully powered finance team knows before month end](https://fullypowered.ai/insights/fully-powered-finance-team/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-overdue-invoice-follow-up-preparation&from=gh-overdue-invoice-follow-up-preparation).

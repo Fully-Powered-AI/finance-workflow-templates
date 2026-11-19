@@ -1,10 +1,17 @@
 # Investor update
 
-Each month or quarter, the founder gets a drafted update for investors: the headline, key figures against plan and last period, cash and runway, wins, problems told plainly with what is being done, and specific asks. Every figure comes from the company's own reports. The founder approves and sends it.
+Each period the founder gets a drafted investor update with figures against plan, cash and runway, problems and asks, from your own reports. You send it.
 
-*Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/investor-update/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Investor update on our website](https://fullypowered.ai/workflows/investor-update/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-investor-update&from=gh-finance-investor-update) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/investor-update/?from=gh-finance-investor-update)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/investor-update/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-investor-update&from=gh-finance-investor-update)*
 
 ## The outcome
 
@@ -42,13 +49,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), which owns the reports behind every figure and the runway.
-- [Leadership](https://fullypowered.ai/functions/leadership/), where the founder keeps investors' trust between funding rounds.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where venture-backed companies report recurring revenue, churn and runway every month.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where founders with angel and early-stage investors report sales, margins and stock.
-- [Hardware and physical technology](https://fullypowered.ai/industries/hardware-and-physical-technology/), where long build cycles make runway the figure investors watch most closely.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), where a steady update habit set early makes the next raise easier.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more investors, more metrics and more news make a fixed shape worth having.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-investor-update&from=gh-finance-investor-update), which owns the reports behind every figure and the runway.
+- [Leadership](https://fullypowered.ai/functions/leadership/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-investor-update&from=gh-finance-investor-update), where the founder keeps investors' trust between funding rounds.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-investor-update&from=gh-finance-investor-update), where venture-backed companies report recurring revenue, churn and runway every month.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-investor-update&from=gh-finance-investor-update), where founders with angel and early-stage investors report sales, margins and stock.
+- [Hardware and physical technology](https://fullypowered.ai/industries/hardware-and-physical-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-investor-update&from=gh-finance-investor-update), where long build cycles make runway the figure investors watch most closely.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-investor-update&from=gh-finance-investor-update), where a steady update habit set early makes the next raise easier.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-investor-update&from=gh-finance-investor-update), when more investors, more metrics and more news make a fixed shape worth having.
 
 ## What has to change for your company
 
@@ -58,7 +65,7 @@ Choose your standing metrics and their order once, and keep them; the workflow t
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 in two runs; the template and example had small edits after the first, and the record of the second, with the findings of the first, is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past periods whose updates you already sent, plus hard cases written in advance: a cash report that does not tie, a metric well behind plan with no explanation, a figure that differs from last time, a metric that disappears, an ask with no deadline. The finance lead checks every figure against its report before the founder relies on the draft. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past periods whose updates you already sent, plus hard cases written in advance: a cash report that does not tie, a metric well behind plan with no explanation, a figure that differs from last time, a metric that disappears, an ask with no deadline. The finance lead checks every figure against its report before the founder relies on the draft. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-investor-update&from=gh-finance-investor-update) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-investor-update&from=gh-finance-investor-update) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -85,10 +92,10 @@ Testing in your environment means running it on two or three past periods whose 
 
 ## Related workflow templates
 
-- [Board meeting pack](https://fullypowered.ai/workflows/board-meeting-pack/)
+- [Board meeting pack](https://fullypowered.ai/workflows/board-meeting-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-investor-update&from=gh-finance-investor-update)
 - [Thirteen-week cash flow forecast](../thirteen-week-cash-flow-forecast/)
 - [Budget-versus-actual variance commentary](../budget-versus-actual-variance-commentary/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-investor-update&from=gh-finance-investor-update).

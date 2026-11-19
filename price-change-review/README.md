@@ -1,10 +1,17 @@
 # Price change review
 
-Before prices change, the owner or finance lead gets one review: the margin on each product or service from the sales and cost exports, how costs have moved, what each proposed price does to sales and gross profit across a stated range of customer responses, and dated competitor prices. It recommends no price.
+See margin by product, cost movement and what each proposed price does to sales and gross profit before prices change. It recommends no price.
 
-*Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/price-change-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Price change review on our website](https://fullypowered.ai/workflows/price-change-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-price-change-review&from=gh-finance-price-change-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/price-change-review/?from=gh-finance-price-change-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/price-change-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-price-change-review&from=gh-finance-price-change-review)*
 
 ## The outcome
 
@@ -50,14 +57,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), which owns the cost figures and the margin.
-- [Sales](https://fullypowered.ai/functions/sales/), which keeps the price list and hears first how customers respond.
-- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where supplier costs move several times a year and a shelf of products needs repricing at once.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where materials and energy costs feed straight into the price of every product.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/), where food, drink and wage costs rise ahead of the menu.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where hourly and fixed-fee rates lag behind the cost of the people delivering them.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where prices have stood for years and nobody remembers the margin they were set to earn.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), where a growing range makes it easy for a few items to slip below cost without anyone noticing.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-price-change-review&from=gh-finance-price-change-review), which owns the cost figures and the margin.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-price-change-review&from=gh-finance-price-change-review), which keeps the price list and hears first how customers respond.
+- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-price-change-review&from=gh-finance-price-change-review), where supplier costs move several times a year and a shelf of products needs repricing at once.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-price-change-review&from=gh-finance-price-change-review), where materials and energy costs feed straight into the price of every product.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-price-change-review&from=gh-finance-price-change-review), where food, drink and wage costs rise ahead of the menu.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-price-change-review&from=gh-finance-price-change-review), where hourly and fixed-fee rates lag behind the cost of the people delivering them.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-price-change-review&from=gh-finance-price-change-review), where prices have stood for years and nobody remembers the margin they were set to earn.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-price-change-review&from=gh-finance-price-change-review), where a growing range makes it easy for a few items to slip below cost without anyone noticing.
 
 ## What has to change for your company
 
@@ -72,7 +79,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026; the record is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past price change your owner remembers well, with hard cases written in advance: an export whose headers do not match, an item with a cost of zero, a competitor price with no date, a proposed price below today's cost. The person who keeps the books checks every figure against the exports before anyone relies on the review. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past price change your owner remembers well, with hard cases written in advance: an export whose headers do not match, an item with a cost of zero, a competitor price with no date, a proposed price below today's cost. The person who keeps the books checks every figure against the exports before anyone relies on the review. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-price-change-review&from=gh-finance-price-change-review) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-price-change-review&from=gh-finance-price-change-review) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -99,10 +106,10 @@ Testing in your environment means running it on a past price change your owner r
 
 ## Related workflow templates
 
-- [Discount request review](https://fullypowered.ai/workflows/discount-request-review/)
-- [Competitor profile from public pages](https://fullypowered.ai/workflows/competitor-profile-from-public-pages/)
-- [Slow-moving stock and markdown plan](https://fullypowered.ai/workflows/slow-moving-stock-and-markdown-plan/)
+- [Discount request review](https://fullypowered.ai/workflows/discount-request-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-price-change-review&from=gh-finance-price-change-review)
+- [Competitor profile from public pages](https://fullypowered.ai/workflows/competitor-profile-from-public-pages/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-price-change-review&from=gh-finance-price-change-review)
+- [Slow-moving stock and markdown plan](https://fullypowered.ai/workflows/slow-moving-stock-and-markdown-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-price-change-review&from=gh-finance-price-change-review)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-price-change-review&from=gh-finance-price-change-review).

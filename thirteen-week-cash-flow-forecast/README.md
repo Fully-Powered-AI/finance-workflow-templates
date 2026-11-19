@@ -1,10 +1,17 @@
 # Thirteen-week cash flow forecast
 
-The owner sees cash week by week for the next thirteen weeks: what comes in, what goes out, the lowest point and every week below the floor they set, with each assumption written on the page. The forecast informs the decision; the owner makes it, and nothing is paid or moved.
+See cash week by week for thirteen weeks, the lowest point and every week below your floor, with assumptions printed. The owner decides.
 
-*Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/thirteen-week-cash-flow-forecast/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Thirteen-week cash flow forecast on our website](https://fullypowered.ai/workflows/thirteen-week-cash-flow-forecast/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-thirteen-week-cash-flow-forecast&from=gh-thirteen-week-cash-flow-forecast) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/thirteen-week-cash-flow-forecast/?from=gh-thirteen-week-cash-flow-forecast)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/thirteen-week-cash-flow-forecast/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-thirteen-week-cash-flow-forecast&from=gh-thirteen-week-cash-flow-forecast)*
 
 ## The outcome
 
@@ -51,14 +58,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), which keeps the books the forecast is built from.
-- [Leadership](https://fullypowered.ai/functions/leadership/), where the owner or managing director decides what to do about the weeks that look tight.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where materials are paid for weeks before the customer pays for the finished work.
-- [Construction](https://fullypowered.ai/industries/construction/), where large receipts arrive late and payroll does not wait for them.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where a few large clients and their payment habits decide the month.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where stock purchases and seasonal peaks pull cash in and out.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when winning more work means paying out more before the money comes in.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), when knowing exactly how long the cash lasts shapes every choice.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-thirteen-week-cash-flow-forecast&from=gh-thirteen-week-cash-flow-forecast), which keeps the books the forecast is built from.
+- [Leadership](https://fullypowered.ai/functions/leadership/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-thirteen-week-cash-flow-forecast&from=gh-thirteen-week-cash-flow-forecast), where the owner or managing director decides what to do about the weeks that look tight.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-thirteen-week-cash-flow-forecast&from=gh-thirteen-week-cash-flow-forecast), where materials are paid for weeks before the customer pays for the finished work.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-thirteen-week-cash-flow-forecast&from=gh-thirteen-week-cash-flow-forecast), where large receipts arrive late and payroll does not wait for them.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-thirteen-week-cash-flow-forecast&from=gh-thirteen-week-cash-flow-forecast), where a few large clients and their payment habits decide the month.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-thirteen-week-cash-flow-forecast&from=gh-thirteen-week-cash-flow-forecast), where stock purchases and seasonal peaks pull cash in and out.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-thirteen-week-cash-flow-forecast&from=gh-thirteen-week-cash-flow-forecast), when winning more work means paying out more before the money comes in.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-thirteen-week-cash-flow-forecast&from=gh-thirteen-week-cash-flow-forecast), when knowing exactly how long the cash lasts shapes every choice.
 
 ## What has to change for your company
 
@@ -74,7 +81,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026; the record of that run is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past quarters whose real bank balances you already know, and comparing each week's closing cash with what happened, with hard cases written in advance: an invoice months overdue, a customer with no payment history, a payroll week with no receipts, an export whose column names differ. The owner or finance lead checks every figure against the exports before anyone relies on the forecast. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past quarters whose real bank balances you already know, and comparing each week's closing cash with what happened, with hard cases written in advance: an invoice months overdue, a customer with no payment history, a payroll week with no receipts, an export whose column names differ. The owner or finance lead checks every figure against the exports before anyone relies on the forecast. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-thirteen-week-cash-flow-forecast&from=gh-thirteen-week-cash-flow-forecast) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-thirteen-week-cash-flow-forecast&from=gh-thirteen-week-cash-flow-forecast) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -107,4 +114,4 @@ Testing in your environment means running it on two or three past quarters whose
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-thirteen-week-cash-flow-forecast&from=gh-thirteen-week-cash-flow-forecast).

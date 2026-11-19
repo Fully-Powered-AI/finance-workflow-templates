@@ -1,14 +1,59 @@
-# FullyPowered Workflow Templates: Finance
+# AI workflow templates for finance and accounting teams
 
-A finance team that knows where every dollar stands before anyone asks. These workflow templates take the recurring work of finance and accounting, such as receivables, collections and reporting, and give an AI assistant a precise way to prepare it, so your people spend their time on the decisions.
+FullyPowered Workflow Templates for finance and accounting teams turn the AI your company already pays for into a team that knows how the work is done: a controller with the month-end close laid out task by task, a bookkeeper with the bank reconciliation prepared for approval, a finance lead with the overdue-invoice follow-ups drafted. 20 workflow templates, made to be customized and deployed. All plain Markdown, all free, MIT license.
 
-**These are templates, made to be customized and deployed.** They are examples and a starting point, not a complete list: copy one, change it to fit how your team does the work, and run it in the AI you already pay for.
+We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
-**FullyPowered AI customizes and builds AI workflows that run in ChatGPT, Claude, Copilot and Gemini**, including ones that run several steps. [More examples for finance and accounting teams](https://fullypowered.ai/functions/finance-and-accounting/?from=gh-finance) · [Have one built for your team](https://fullypowered.ai/pricing/?from=gh-finance)
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for finance and accounting teams](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-readme&from=gh-finance-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-readme&from=gh-finance-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-This repository holds 20 workflow templates for finance and accounting teams. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+**Who this is for**
 
-## The workflow templates
+- Owners and CEOs who want to see cash, budgets and results clearly before deciding.
+- Controllers and finance leads who want a close their team can run this month.
+- The bookkeeper or accountant who prepares the work and still approves every entry.
+
+**What these are for**
+
+- **Your best way of doing it, for the whole team.** One piece of work, written down precisely enough that an assistant prepares it the same way every time.
+- **Work you can check.** Every template says what it needs, what it produces, what it checked and what it could not.
+- **A person decides.** Anything that sends, posts, pays or changes a record waits for someone to approve it.
+- **Tied into your business systems.** A workflow can be designed to pull from the systems your company already runs, and even push data back into them, with guardrails and a person approving. [Browse the Connectors Directory](https://fullypowered.ai/connectors/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-readme&from=gh-finance-readme).
+- **Free, open and portable.** MIT-licensed plain instructions that run in the assistant or agent your team already uses: ChatGPT, Claude, Claude Code, Claude Cowork, Codex, Copilot, Gemini, Grok, Perplexity.
+
+**Quick start**
+
+1. **Prepare for a collections call in a few minutes.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into it, replace the square brackets with your own account details, and send it. You need no sign-in here and nothing to download. Use an account you already have open in your accounting system.
+
+   ```text
+   You are helping a credit controller prepare to phone a business customer about overdue invoices. I will paste the open invoices, recent payments, earlier contact notes, known disputes and our written collections terms: [paste them here]. Today's date is [date] and the ledger balance is [amount]. First check that the open items add up to that balance, and stop and tell me if they do not. Then write one page: who to ask for, every open invoice oldest first with days overdue, each earlier promise marked kept, part kept, broken or pending, open disputes and unused credits, and numbered questions to settle on the call. Quote what I may offer from my terms only. Never invent a fact, threaten anything or offer anything my terms do not allow. I make the call and decide. Nothing is sent or changed.
+   ```
+
+2. Read what comes back. It marks what it checked and what is left for you. What comes out, with invented data:
+
+   ```text
+   **COLLECTIONS CALL BRIEF: Customer A, account A-1042**
+
+   **For:** Credit controller, call on Monday 9 November 2026. Prepared from: open items (7 rows, balance 12,070.40 USD, ties to the ledger balance in the settings); payments (3 rows, 25 September 2026 to 5 November 2026); contact log (5 entries since 11 August 2026); contacts (2); disputes file (1 open); collections terms (Collections terms, 1 March 2026).
+
+   **Account status:** open. For the caller's information; not a line to use on the call.
+
+   **Ask for:** Contact 1, Accounts payable clerk, 555-0142. Why: made the BROKEN promise of 7 October 2026.
+
+   **Also on file:** Contact 2, Finance director, 555-0157: approves the weekly payment runs; on 28 October 2026 emailed about broken plant pots on INV-5650 (see D-31); on 2 November 2026 said INV-5521 waits on the PO 7731 query.
+
+   **Where the account stands**
+
+   - Overdue: 10,280.40 on 4 invoices. In dispute: 410.00. Overdue and not in dispute: 9,870.40, of which 4,860.00 is held by a query not logged.
+   ```
+
+3. Stop there. You will know if this is for you. When you want it fitted to your company, or built into your agents, [that is what we do](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-readme&from=gh-finance-readme).
+
+A person starts each workflow, supplies the inputs and decides; the template prepares and checks, and nothing is sent, paid or posted until a person approves.
+
+These are examples and a starting point, made to be customized for the way your team works. Work that is not listed here can still be built, as one step or many.
+
+## The finance workflow templates here today
 
 - **[Annual operating budget](annual-operating-budget/)**: For an owner or finance lead preparing next year: revenue and costs by month and by team, built from this year's figures and each budget owner's drivers, every assumption written down, capital purchases listed apart, the whole checked against cash, and the questions leadership has to settle.
 - **[Audit preparation](audit-preparation/)**: Before the external auditors arrive, your controller holds one audit pack: every request with its owner, date, document and status, the control evidence they will test, last year's findings and what was done, and draft answers to the questions they will ask. People approve everything before it goes.
@@ -49,10 +94,10 @@ Each folder says exactly what was checked and when: who wrote it, that its sourc
 
 ## More workflow templates
 
-The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
+The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-readme&from=gh-finance-readme) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
 
-For the work these templates come from, by team and by task, see [AI workflow examples for finance and accounting teams](https://fullypowered.ai/functions/finance-and-accounting/).
+For the work these templates come from, by team and by task, see [AI workflow examples for finance and accounting teams](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-readme&from=gh-finance-readme).
 
 ## Licence and credits
 
-MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/).
+MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-readme&from=gh-finance-readme).

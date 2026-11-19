@@ -1,10 +1,17 @@
 # Supplier bill review and payment-run preparation
 
-Before each payment run, the person who approves it gets one sheet: every supplier bill checked against its purchase order and what was received, duplicates and changed bank details stopped, credits shown, and a proposed run with its total. Nothing is paid until a person approves.
+Check every supplier bill against its purchase order and receipts, stop duplicates and changed bank details, and propose a run. A person approves.
 
-*Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Supplier bill review and payment-run preparation on our website](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-supplier-bill-review-and-payment-run-preparation&from=gh-supplier-bill-review-and-payment-run) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/?from=gh-supplier-bill-review-and-payment-run)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-supplier-bill-review-and-payment-run-preparation&from=gh-supplier-bill-review-and-payment-run)*
 
 ## The outcome
 
@@ -50,13 +57,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), which owns payables and the payment run.
-- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/), whose orders and agreed prices are what each bill is checked against.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where materials are billed by the line and short deliveries are routine.
-- [Construction](https://fullypowered.ai/industries/construction/), where one supplier bill can cover several deliveries to several sites.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where stock arrives in part shipments and the bill arrives whole.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/), where many small supplier bills arrive every week and prices move often.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the run has always depended on one careful person and should not.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-supplier-bill-review-and-payment-run-preparation&from=gh-supplier-bill-review-and-payment-run), which owns payables and the payment run.
+- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-supplier-bill-review-and-payment-run-preparation&from=gh-supplier-bill-review-and-payment-run), whose orders and agreed prices are what each bill is checked against.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-supplier-bill-review-and-payment-run-preparation&from=gh-supplier-bill-review-and-payment-run), where materials are billed by the line and short deliveries are routine.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-supplier-bill-review-and-payment-run-preparation&from=gh-supplier-bill-review-and-payment-run), where one supplier bill can cover several deliveries to several sites.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-supplier-bill-review-and-payment-run-preparation&from=gh-supplier-bill-review-and-payment-run), where stock arrives in part shipments and the bill arrives whole.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-supplier-bill-review-and-payment-run-preparation&from=gh-supplier-bill-review-and-payment-run), where many small supplier bills arrive every week and prices move often.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-supplier-bill-review-and-payment-run-preparation&from=gh-supplier-bill-review-and-payment-run), where the run has always depended on one careful person and should not.
 
 ## What has to change for your company
 
@@ -71,7 +78,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its own invented example in one AI product on 9 November 2026, revised and tried again the same day; the record of the second run is published with the template, and lists the edits made afterward that have not been run again. That is a trial, not a test. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on past payment runs your bookkeeper already knows, with hard cases written in advance: a bill entered twice, a short delivery, a price above the order, a changed bank account, a supplier with a credit. The approver checks every figure against the exports before anyone relies on the sheet. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on past payment runs your bookkeeper already knows, with hard cases written in advance: a bill entered twice, a short delivery, a price above the order, a changed bank account, a supplier with a credit. The approver checks every figure against the exports before anyone relies on the sheet. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-supplier-bill-review-and-payment-run-preparation&from=gh-supplier-bill-review-and-payment-run) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-supplier-bill-review-and-payment-run-preparation&from=gh-supplier-bill-review-and-payment-run) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -100,8 +107,8 @@ Testing in your environment means running it on past payment runs your bookkeepe
 
 - [Receivables exception review](../receivables-exception-review/)
 - [Weekly receivables summary](../weekly-receivables-summary/)
-- [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/)
+- [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-supplier-bill-review-and-payment-run-preparation&from=gh-supplier-bill-review-and-payment-run)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-supplier-bill-review-and-payment-run-preparation&from=gh-supplier-bill-review-and-payment-run).
