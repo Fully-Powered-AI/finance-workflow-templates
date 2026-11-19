@@ -32,7 +32,7 @@ The programme owner, usually the business owner or the head of marketing, approv
 - **The programme rules.** The default commission rate, what the commission is calculated on, how partial refunds are treated, the holdback in days, the minimum payout, and the store's own promotion codes.
 - **The creator list.** Each creator's status, deal, rate, flat fee, codes, start date and whether they are paid by you or by a creator platform.
 - **The orders export** for every day of the month, straight from the store.
-- **Where needed:** the orders credited to tracked links, the deliverables accepted for flat-fee deals, last month's carried amounts, and the platform's own commission figures.
+- **Where needed:** the orders credited to tracked links, the deliverables accepted for flat-fee deals, last month's carried amounts, and the commission figures exported from your creator or affiliate platform.
 
 No connection to the store, the platform or the bank is needed, and none is asked for.
 
