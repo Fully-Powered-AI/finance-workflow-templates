@@ -4,6 +4,8 @@ The owner sees cash week by week for the next thirteen weeks: what comes in, wha
 
 *Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/thirteen-week-cash-flow-forecast/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/thirteen-week-cash-flow-forecast/?from=gh-thirteen-week-cash-flow-forecast)
+
 ## The outcome
 
 The owner stops guessing whether the money will be there. One page shows the bank balance today and where it lands at the end of each of the next thirteen weeks, built line by line from the invoices you have sent, the orders you have won, the bills you owe and the payments you make every month.

@@ -4,6 +4,8 @@ Every overdue invoice gets a follow-up drafted in your firm’s tone for its age
 
 *Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/overdue-invoice-follow-up-preparation/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/overdue-invoice-follow-up-preparation/?from=gh-overdue-invoice-follow-up-preparation)
+
 ## The outcome
 
 Collections stop depending on who remembers to chase. Each week, every overdue invoice is either ready to follow up or held for a stated reason. The drafts read like your firm wrote them: a light reminder at 10 days, a request for a date at 40, a direct note from the account lead once a promise is missed. Each cites the invoice, the amount, the due date and what the client last said.

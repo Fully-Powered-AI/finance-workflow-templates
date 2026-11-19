@@ -4,6 +4,8 @@ The controller gets every short payment, unmatched or ambiguous receipt, possibl
 
 *Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/receivables-exception-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/receivables-exception-review/?from=gh-finance-receivables-exception-review)
+
 ## The outcome
 
 Most receipts match themselves. The few that do not are where the controller’s week goes: the check that is \$200 short, the wire with no reference, the payment from a client with nothing open. This workflow template puts all of them on one list after matching, with the evidence gathered and a proposed next step for each.

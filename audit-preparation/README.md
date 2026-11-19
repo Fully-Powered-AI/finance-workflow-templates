@@ -4,6 +4,8 @@ Before the external auditors arrive, your controller holds one audit pack: every
 
 *Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/audit-preparation/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/audit-preparation/?from=gh-finance-audit-preparation)
+
 ## The outcome
 
 Audit season stops being a scramble. The auditors' request list becomes a tracker the whole finance team can work from: each item has a named owner, the date the auditors want it, an earlier date of your own so there is time to check it, the document that answers it, and where it stands. Anything late, unowned or sent without an approval stands out on the first page.

@@ -4,6 +4,8 @@ Before the month's results go to management, the finance lead gets written comme
 
 *Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/?from=gh-budget-versus-actual-variance-comment)
+
 ## The outcome
 
 The results arrive with their story, and the story is honest about what is known. Every line that moved enough to matter has its figures, its explanation in the budget owner's own terms, and a plain label: confirmed by the person who owns the line, or still to be confirmed by them. A line nobody has explained says so, instead of carrying a plausible guess.

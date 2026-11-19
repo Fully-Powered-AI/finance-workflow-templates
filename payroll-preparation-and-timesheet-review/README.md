@@ -4,6 +4,8 @@ Before each payroll run, the owner gets one sheet built from the timesheet and r
 
 *Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/payroll-preparation-and-timesheet-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/payroll-preparation-and-timesheet-review/?from=gh-payroll-preparation-and-timesheet-rev)
+
 ## The outcome
 
 The owner approves payroll knowing what is in it. Every person on the roster has a line: hours worked, overtime, leave and an estimated gross, worked out from your own exports and your own overtime rule. Anything that looks wrong sits on that person's line, with the date, both figures and what it would cost if left alone.

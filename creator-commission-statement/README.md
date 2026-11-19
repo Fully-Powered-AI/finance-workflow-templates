@@ -4,6 +4,8 @@ Each month, the finance lead gets a draft statement of what every creator has ea
 
 *Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-commission-statement/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/creator-commission-statement/?from=gh-finance-creator-commission-statement)
+
 ## The outcome
 
 Creator payouts stop being a spreadsheet argument. Every order in the month lands in exactly one place: credited to a creator, set aside by a named rule, or listed as a code nobody owns. Every creator's figure can be traced back to order numbers in the export, and the order count at the bottom proves nothing slipped through.

@@ -4,6 +4,8 @@ At month end, your bookkeeper hands the controller every proposed journal entry 
 
 *Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/journal-entry-preparation/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/journal-entry-preparation/?from=gh-finance-journal-entry-preparation)
+
 ## The outcome
 
 The manual entries of the close arrive at the controller's desk as a package instead of a pile. Each one has its lines, a memo that will still make sense to an auditor next year, the calculation that produced the amount, and the document that proves it. Accruals, prepaid releases, depreciation, deferred revenue and corrections all come out in the same shape, so review becomes reading, not reconstructing.

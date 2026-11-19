@@ -4,6 +4,8 @@ Each month or quarter, the founder gets a drafted update for investors: the head
 
 *Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/investor-update/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/investor-update/?from=gh-finance-investor-update)
+
 ## The outcome
 
 Your investors hear from you on time, in the same shape every period, and they hear the hard news from you first. The draft opens with your headline, then the same standing figures as last time, each set against plan and against the last period, so a reader sees at once what moved. Cash and runway are worked out from your cash report, with money from investors kept out of the burn and funding you expect but have not banked shown on its own line.

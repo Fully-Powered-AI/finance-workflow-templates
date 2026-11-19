@@ -4,6 +4,8 @@ At period end, the accountant or controller gets one worksheet proving the payro
 
 *Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/payroll-register-to-ledger-reconciliation/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/payroll-register-to-ledger-reconciliation/?from=gh-payroll-register-to-ledger-reconcilia)
+
 ## The outcome
 
 For most companies under 200 people, payroll is one of the largest costs, and it reaches the ledger through a provider's integration that few people check line by line. A run posts two days late, a new deduction code lands on the wage account, an off-cycle check never arrives at all. Each one quietly moves the month's numbers.

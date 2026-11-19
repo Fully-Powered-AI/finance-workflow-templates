@@ -4,6 +4,8 @@ The finance lead takes one page into each week’s management meeting: what came
 
 *Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/weekly-receivables-summary/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/weekly-receivables-summary/?from=gh-finance-weekly-receivables-summary)
+
 ## The outcome
 
 Management sees receivables every week, in the same shape, on one page. The finance lead walks in knowing the cash that arrived, how each bracket moved and why, and whose desk each open exception sits on. The page ends with the decisions only management can make, each with its facts.

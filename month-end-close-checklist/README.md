@@ -4,6 +4,8 @@ Before the month ends, your controller holds the whole close on one page: every 
 
 *Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/month-end-close-checklist/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/month-end-close-checklist/?from=gh-finance-month-end-close-checklist)
+
 ## The outcome
 
 The close starts with a plan instead of a memory. Every task has a named owner and a real date, counted in your working days and skipping the days your office is closed. The page shows which tasks set the close date, so everyone knows where a late afternoon costs a whole day.

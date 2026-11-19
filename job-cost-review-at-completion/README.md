@@ -4,6 +4,8 @@ When a job closes, the controller gets one review that sets recorded labour, mat
 
 *Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/job-cost-review-at-completion/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/job-cost-review-at-completion/?from=gh-finance-job-cost-review-at-completion)
+
 ## The outcome
 
 Every finished job gets an honest answer to one question: what did it really cost, against what we said it would? The review lines up the estimate, including the change orders that were approved, with every cost the job recorded, cost code by cost code and type by type. Each line shows the difference in money and as a percentage, and labour is split into extra or saved hours and a higher or lower rate, so the conversation starts from the right place.

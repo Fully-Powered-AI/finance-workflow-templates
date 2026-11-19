@@ -4,6 +4,8 @@ For an owner or finance lead preparing next year: revenue and costs by month and
 
 *Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/annual-operating-budget/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/annual-operating-budget/?from=gh-finance-annual-operating-budget)
+
 ## The outcome
 
 Next year's budget arrives as one coherent draft instead of a stack of spreadsheets from every team. Each line shows this year's figure, next year's, the change, and how the owner got there: the orders and prices behind sales, the share of sales behind materials, the monthly charge behind rent. Where the arithmetic an owner gives does not produce the figure they sent, the draft says so and keeps their figure until they answer.

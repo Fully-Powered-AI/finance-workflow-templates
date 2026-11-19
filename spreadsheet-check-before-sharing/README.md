@@ -4,6 +4,8 @@ Before a model or schedule goes to a client, a lender or a board, the sender get
 
 *Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/?from=gh-spreadsheet-check-before-sharing)
+
 ## The outcome
 
 The file leaves without the mistake everyone notices except its author. The total that skips a row, the `#REF!` on the summary page, the title that names last year, the note to a colleague still sitting in a comment: each is found before the recipient finds it, with the cell, the formula and what it does to the figures they will read.

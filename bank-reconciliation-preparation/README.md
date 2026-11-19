@@ -4,6 +4,8 @@ Before the month is signed off, your bookkeeper holds one bank reconciliation fo
 
 *Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/bank-reconciliation-preparation/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/bank-reconciliation-preparation/?from=gh-bank-reconciliation-preparation)
+
 ## The outcome
 
 A bank reconciliation is where the books meet an outside record they cannot argue with. Your bookkeeper starts the review with the matching already done: each statement line paired with its entry in the books, or set apart with the reason it has no partner.

@@ -4,6 +4,8 @@ Before you phone a customer about overdue invoices, one page sets out every open
 
 *Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/collections-call-brief/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/collections-call-brief/?from=gh-finance-collections-call-brief)
+
 ## The outcome
 
 The person making the call picks up the phone knowing the whole account. Every open invoice is there with its age, oldest first. Every earlier contact is there in the log's own words, and every promise the customer made is marked kept, part kept, broken or still pending, judged against the payments that actually arrived. A payment that turned up in the promised week but went to a different invoice is pointed out, so the call can clear it up instead of tripping over it.

@@ -4,6 +4,8 @@ Once the year's books are closed, the owner or bookkeeper hands the accountant o
 
 *Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/year-end-tax-packet-for-the-accountant/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/year-end-tax-packet-for-the-accountant/?from=gh-year-end-tax-packet-for-the-accountan)
+
 ## The outcome
 
 Tax season starts with one organized packet instead of a month of emails back and forth. Your accountant gets the year's headline figures from the closed books, each item from their request letter marked as ready, partly ready or still missing, the contractors paid for services that year with their totals, and the estimated tax payments as you made them. Every assumption the packet relies on is printed on it, so your accountant can see exactly how each figure was put together.
