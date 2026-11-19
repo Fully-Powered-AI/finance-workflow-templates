@@ -46,6 +46,8 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-receivables-exception-review&from=gh-finance-receivables-exception-review), where the same awkward items return every month.
 - [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-receivables-exception-review&from=gh-finance-receivables-exception-review), where two ledgers send more receipts that match neither cleanly.
 
+More [law firm AI workflow templates](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-receivables-exception-review&from=gh-finance-receivables-exception-review) like this one.
+
 ## What has to change for your company
 
 Your controller sets the rules: how a short payment is applied when the remittance names the invoice, the write-off amount the controller may approve, and how long unapplied cash may sit before it goes to the finance lead. Account leads record promises and disputes in one place the assistant can read. The assistant gets read-only exports and no access to post.

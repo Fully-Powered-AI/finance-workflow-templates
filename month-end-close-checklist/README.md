@@ -53,6 +53,8 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-month-end-close-checklist&from=gh-finance-month-end-close-checklist), where unbilled work on projects has to be counted before the statements mean anything.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-month-end-close-checklist&from=gh-finance-month-end-close-checklist), where the close lives in one long-serving person's head and should live on a page.
 
+See all the [legal AI workflow examples](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-month-end-close-checklist&from=gh-finance-month-end-close-checklist) for law firms.
+
 ## What has to change for your company
 
 Start from your own task list; the workflow template adds no accounting tasks of its own. Decide how you count days: which day is day one, and which days the office is closed. Name who approves entries, who posts them and who locks the month, and decide whether anyone may review their own work. Set the target date and who must have the statements by when. Agree where the approved checklist lives and how the team marks a task done. It runs in ChatGPT, Claude, Copilot or Gemini, from files and notes you supply; it needs no connection to your accounting system.

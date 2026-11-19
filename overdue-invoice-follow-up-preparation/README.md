@@ -47,6 +47,8 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-overdue-invoice-follow-up-preparation&from=gh-overdue-invoice-follow-up-preparation), when the client list outgrows the founder chasing invoices personally.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-overdue-invoice-follow-up-preparation&from=gh-overdue-invoice-follow-up-preparation), where a steady weekly rhythm keeps old balances from settling in.
 
+See all the [legal AI workflow examples](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-overdue-invoice-follow-up-preparation&from=gh-overdue-invoice-follow-up-preparation) for law firms.
+
 ## What has to change for your company
 
 Set your brackets and one approved message for each. Decide who sends and who is copied at each bracket, and whether a missed promise goes straight to the account lead. Agree the holds: disputed, on hold by agreement, balance under review, payment unidentified. Decide where drafts land. No draft offers a payment plan, a discount or a credit; the sender adds one only with the controller’s approval.

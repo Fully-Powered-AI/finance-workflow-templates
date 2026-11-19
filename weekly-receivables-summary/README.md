@@ -46,6 +46,8 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-weekly-receivables-summary&from=gh-finance-weekly-receivables-summary), when invoicing outgrows the finance lead’s time.
 - [Private equity & portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-weekly-receivables-summary&from=gh-finance-weekly-receivables-summary), where a portfolio company reports collections to its owners on a fixed rhythm.
 
+See all the [legal AI workflow examples](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-weekly-receivables-summary&from=gh-finance-weekly-receivables-summary) for law firms.
+
 ## What has to change for your company
 
 Decide who reads the page and on which day. Set your brackets and the movement size worth reporting. Agree which decisions go to management and which stay with the controller, such as credits above a set amount or pausing work for a client. Fix the section order once. Make the aging report the single source: when the summary and the ledger disagree, the ledger wins.
