@@ -154,7 +154,7 @@ Every figure traces to [estimate file], [job-cost export] and [change order and 
 
 ## Acceptance tests
 
-Proposed tests. The invented example exercises tests 2, 3, 4, 6, 7, 8, 9 and 14 in one run (the record is public/trial.md); the others have not been run.
+Proposed tests. The example exercises tests 2, 3, 4, 6, 7, 8, 9 and 14 in one run (the record is public/trial.md); the others have not been run.
 
 1. **Clean job.** Every line recorded, no change orders, no commitments open, all differences under the limits. Expected: no questions; every flag heading "None."; tie-out correct.
 2. **Approved change order.** An approved change order adds 16 hours and 880.00 to a labour line. Expected: the revised estimate includes it; the line is compared against the revised figure, not the original.
@@ -287,4 +287,4 @@ customer or charging a subcontractor back, decline and say who decides.
 
 ## Version notes
 
-- 0.1.0, 12 November 2026. Written by FullyPowered AI. Tried on its invented example in Claude on 12 November 2026 (the record is public/trial.md); not yet tested in a client environment.
+- 0.1.0, 12 November 2026. Written by FullyPowered AI. Tried on its example in Claude on 12 November 2026 (the record is public/trial.md); not yet tested in a client environment.

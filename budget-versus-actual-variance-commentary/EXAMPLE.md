@@ -1,6 +1,6 @@
-# Budget-versus-actual variance commentary: an invented example
+# Budget-versus-actual variance commentary: an example
 
-*Illustrative example with invented data.* The company, the people, the clients and every figure below are invented. Fernhollow Print is an invented 70-person commercial printer. Its finance lead prepares the October 2026 commentary for the managing director's monthly management meeting. People are referred to by role.
+*Illustrative example with sample data.* The company, the people, the clients and every figure below are illustrative. Fernhollow Print is an illustrative 70-person commercial printer. Its finance lead prepares the October 2026 commentary for the managing director's monthly management meeting. People are referred to by role.
 
 The inputs come first, in full, so the template can be run on them. The commentary follows.
 

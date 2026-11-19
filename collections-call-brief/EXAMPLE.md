@@ -1,6 +1,6 @@
-# Collections call brief: an invented example
+# Collections call brief: an example
 
-*Illustrative example with invented data.* The company, the customer, the people, the phone numbers, the invoices, the payments, the notes and every date below are invented. The company is an invented 40-person wholesale distributor of garden supplies. Its customer appears as Customer A, a business that runs three garden centres, and the customer's staff appear as Contact 1 and Contact 2. The company's own staff appear by role only. Phone numbers use the 555-01 range kept for fiction.
+*Illustrative example with sample data.* The company, the customer, the people, the phone numbers, the invoices, the payments, the notes and every date below are illustrative. The company is an illustrative 40-person wholesale distributor of garden supplies. Its customer appears as Customer A, a business that runs three garden centres, and the customer's staff appear as Contact 1 and Contact 2. The company's own staff appear by role only. Phone numbers use the 555-01 range kept for fiction.
 
 On the morning of Monday 9 November 2026 the credit controller exported Customer A's account and ran the brief before phoning. After the call, the credit controller ran it again with the call notes. The inputs come first, in full, so the workflow template can be run on them. The brief and the call record it returned follow.
 
@@ -9,7 +9,7 @@ On the morning of Monday 9 November 2026 the credit controller exported Customer
 ### 1. Settings (typed by the credit controller)
 
 ```
-Company: invented wholesale distributor of garden supplies, about 40 people
+Company: illustrative wholesale distributor of garden supplies, about 40 people
 Customer: Customer A, account A-1042
 Customer type: business
 Today: Monday 9 November 2026

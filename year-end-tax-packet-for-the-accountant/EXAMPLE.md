@@ -1,6 +1,6 @@
-# Year-end tax packet for the accountant: an invented example
+# Year-end tax packet for the accountant: an example
 
-*Illustrative example with invented data.* The business, the contractors, the firms, every row and every figure below are invented. The business is an invented six-person sign and display studio in Oregon, called "the Studio" here, owned by one person and kept by a part-time bookkeeper. Contractors and firms are referred to by letter and people by role. The Studio's outside accountant has sent a request letter for the 2026 return, and the bookkeeper runs the packet on Monday 11 January 2027, the first working day after the books were closed.
+*Illustrative example with sample data.* The business, the contractors, the firms, every row and every figure below are illustrative. The business is an illustrative six-person sign and display studio in Oregon, called "the Studio" here, owned by one person and kept by a part-time bookkeeper. Contractors and firms are referred to by letter and people by role. The Studio's outside accountant has sent a request letter for the 2026 return, and the bookkeeper runs the packet on Monday 11 January 2027, the first working day after the books were closed.
 
 The inputs come first, in full, so the template can be run on them. The packet follows.
 

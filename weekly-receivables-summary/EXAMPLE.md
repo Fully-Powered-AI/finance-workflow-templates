@@ -1,6 +1,6 @@
-# Weekly receivables summary: an invented example
+# Weekly receivables summary: an example
 
-*Illustrative example with invented data.* Complete weekly summary at an invented 60-person professional-services firm.
+*Illustrative example with sample data.* Complete weekly summary at an illustrative 60-person professional-services firm.
 
 **Weekly receivables summary: week of 21 September 2026**
 

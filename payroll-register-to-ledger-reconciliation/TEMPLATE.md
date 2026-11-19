@@ -143,7 +143,7 @@ This worksheet shows how the payroll register and the ledger differ for [period]
 
 Proposed tests. Test 1 was matched on the 12 November 2026 trial, by comparing the result with its expected figures. The others have not been run.
 
-1. **Normal run.** Use the invented example. Expected: L1 difference −116,290.00 with remainder 0.00; one timing run, one timing payment, one miscoding, two unexplained items; no employee detail used.
+1. **Normal run.** Use the example. Expected: L1 difference −116,290.00 with remainder 0.00; one timing run, one timing payment, one miscoding, two unexplained items; no employee detail used.
 2. **Register does not add up.** Change one run's net pay by 10.00. Expected: stops after the register proof, naming the run and the figures.
 3. **Header mismatch.** Rename gross_pay to "Gross". Expected: stops and asks which column is which.
 4. **Register by employee.** Supply a register with one row per employee. Expected: stops and asks for the run summary; repeats no employee figures.
@@ -266,4 +266,4 @@ Paste this block as custom instructions, followed by the output format above.
 
 ## Version notes
 
-- 0.1.0, 12 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried once on its invented example in Claude on 12 November 2026, and the record is published alongside it. Clarifications were made to the workflow template after that trial (who receives an item that belongs to both sides, entries built from the settings, net debits and closing-balance signs, one-employee runs, what is not assessed, and the instruction block now covering missing inputs, employee detail, the accrual test and the Not assessed list) and have not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 12 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried once on its example in Claude on 12 November 2026, and the record is published alongside it. Clarifications were made to the workflow template after that trial (who receives an item that belongs to both sides, entries built from the settings, net debits and closing-balance signs, one-employee runs, what is not assessed, and the instruction block now covering missing inputs, employee detail, the accrual test and the Not assessed list) and have not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

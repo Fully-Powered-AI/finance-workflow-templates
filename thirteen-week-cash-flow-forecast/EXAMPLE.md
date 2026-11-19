@@ -1,6 +1,6 @@
-# Thirteen-week cash flow forecast: an invented example
+# Thirteen-week cash flow forecast: an example
 
-*Illustrative example with invented data.* The company, the customers, the suppliers, the people and every figure below are invented. Kestrelmoor Signworks is an invented 24-person company that designs, makes and installs signs for shops, offices and hospitals. Its bookkeeper prepares the forecast on Monday 9 November 2026 for the owner. People are referred to by role, and customers and suppliers by letter.
+*Illustrative example with sample data.* The company, the customers, the suppliers, the people and every figure below are illustrative. Kestrelmoor Signworks is an illustrative 24-person company that designs, makes and installs signs for shops, offices and hospitals. Its bookkeeper prepares the forecast on Monday 9 November 2026 for the owner. People are referred to by role, and customers and suppliers by letter.
 
 The inputs come first, in full, so the template can be run on them. The forecast follows.
 

@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-12
 
-The inputs were the invented example in [example.md](example.md): the settings, the payroll register summary, the ledger summary, the journal detail, the payment report, the last reconciliation and the payroll administrator's notes for the invented Company M, October 2026. No client data was used. The assistant that ran the template did not write it. It was given the template's instruction block and output format and only the example's inputs. It produced the worksheet before it opened the example's published worksheet, and compared the two afterwards.
+The inputs were the example in [example.md](example.md): the settings, the payroll register summary, the ledger summary, the journal detail, the payment report, the last reconciliation and the payroll administrator's notes for the illustrative Company M, October 2026. No client data was used. The assistant that ran the template did not write it. It was given the template's instruction block and output format and only the example's inputs. It produced the worksheet before it opened the example's published worksheet, and compared the two afterwards.
 
 ## What came out
 
@@ -88,6 +88,6 @@ Whether any pay, tax or deduction amount is right for any employee or under tax 
 
 ### Shortcomings found in the template's own text
 
-- Its version notes, and the profile's "what has been checked" paragraph, still say it has not been tried on its invented example. They need updating now there is a trial. This run did not change them. Corrected afterwards: the version notes and the profile have since been updated.
+- Its version notes, and the profile's "what has been checked" paragraph, still say it has not been tried on its example. They need updating now there is a trial. This run did not change them. Corrected afterwards: the version notes and the profile have since been updated.
 - Its acceptance tests are marked "Proposed tests. None has been run." Only test 1 was effectively run here, and only by comparing the result with its expected figures.
-- The run was one pass by one model on one invented example. It shows the template can be followed to the right answer on clean files, not that it holds up on messier ones or with other products.
+- The run was one pass by one model on one example. It shows the template can be followed to the right answer on clean files, not that it holds up on messier ones or with other products.

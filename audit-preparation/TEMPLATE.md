@@ -311,4 +311,4 @@ a decision for the controller.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its invented example on 10 November 2026 in one run, the run recorded. Small edits made to the pasted instructions, the method and the example after the recorded run have not been run again; the trial record lists them. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its example on 10 November 2026 in one run, the run recorded. Small edits made to the pasted instructions, the method and the example after the recorded run have not been run again; the trial record lists them. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

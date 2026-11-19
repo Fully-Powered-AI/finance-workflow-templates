@@ -1,6 +1,6 @@
-# Job cost review at completion: an invented example
+# Job cost review at completion: an example
 
-*Illustrative example with invented data.* The shop, the customer, the suppliers, the job and every figure below are made up for this page. They stand for a small steel fabrication and installation shop closing out one job in October 2026, and describe nothing that happened anywhere.
+*Illustrative example with sample data.* The shop, the customer, the suppliers, the job and every figure below are made up for this page. They stand for a small steel fabrication and installation shop closing out one job in October 2026, and describe nothing that happened anywhere.
 
 ## What the controller supplies
 

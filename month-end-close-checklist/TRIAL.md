@@ -1,11 +1,11 @@
-# Month-end close checklist: one trial run on the invented example
+# Month-end close checklist: one trial run on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Fable 5.2
 - **Date:** 2026-11-09
 - **Template version:** 0.1.0
 
-This is a record of one run of the workflow template on its own invented example. The firm, the people, the tasks, the dates and the amounts are invented, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
+This is a record of one run of the workflow template on its own example. The firm, the people, the tasks, the dates and the amounts are illustrative, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
 
 This is the second run on the same example. An earlier run the same day showed where the instructions left room to guess; the instructions and the example were revised, and the run recorded here was made on the revised instructions. What the earlier run found, and what was changed, is at the end.
 

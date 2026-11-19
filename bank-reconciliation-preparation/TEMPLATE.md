@@ -314,4 +314,4 @@ proof agree, decline and name the role that does it.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by FullyPowered AI. Tried on its invented example on 9 November 2026 in one run; the record is published with it and lists the small edits made afterward that have not been run again. That run did not reach the stop conditions or the path where the proof does not agree. Not yet tested in a client environment.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI. Tried on its example on 9 November 2026 in one run; the record is published with it and lists the small edits made afterward that have not been run again. That run did not reach the stop conditions or the path where the proof does not agree. Not yet tested in a client environment.

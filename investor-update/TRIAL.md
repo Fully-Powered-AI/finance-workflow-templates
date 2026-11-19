@@ -1,10 +1,10 @@
-# Investor update: tried on its invented example
+# Investor update: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-10
 
-The template was run twice on 10 November 2026 on its invented example in [public/example.md](example.md) (Quellinby Routes, October 2026): its settings, figures export, cash report, founder's notes and last update. No client data was used either time. After the first run, an independent review asked for small edits to the template and the example, mostly to settle the ambiguities that run found. This record is of the second run, on the edited template. The first run's record follows it, kept as written.
+The template was run twice on 10 November 2026 on its example in [public/example.md](example.md) (Quellinby Routes, October 2026): its settings, figures export, cash report, founder's notes and last update. No client data was used either time. After the first run, an independent review asked for small edits to the template and the example, mostly to settle the ambiguities that run found. This record is of the second run, on the edited template. The first run's record follows it, kept as written.
 
 ## The second run
 
@@ -62,7 +62,7 @@ Differences from the published example. The example's draft was revised in the s
 
 Facts in either output that are not in the inputs: none found.
 
-Shortcomings found in this run: the wider figures rule asks the founder to confirm many small statements (9 questions against the earlier example's 5), and the template does not say whether a count written as "one" needs a report. One run on one invented example is not a test.
+Shortcomings found in this run: the wider figures rule asks the founder to confirm many small statements (9 questions against the earlier example's 5), and the template does not say whether a count written as "one" needs a report. One run on one example is not a test.
 
 ## Changes made after the first run
 

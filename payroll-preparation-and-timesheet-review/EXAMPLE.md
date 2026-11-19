@@ -1,6 +1,6 @@
-# Payroll preparation and timesheet review: an invented example
+# Payroll preparation and timesheet review: an example
 
-*Illustrative example with invented data.* The company, the people, the hours and every figure below are invented. Tolland Row Bakery is an invented bakery and café with seven people on its roster, paid weekly. Its office manager prepares the payroll for the week of Monday 2 to Sunday 8 November 2026 for the owner to approve. Staff are invented and referred to by first name and employee ID.
+*Illustrative example with sample data.* The company, the people, the hours and every figure below are illustrative. Tolland Row Bakery is an illustrative bakery and café with seven people on its roster, paid weekly. Its office manager prepares the payroll for the week of Monday 2 to Sunday 8 November 2026 for the owner to approve. Staff are illustrative and referred to by first name and employee ID.
 
 The inputs come first, in full, so the template can be run on them. The payroll preparation sheet follows, in the template's output format.
 

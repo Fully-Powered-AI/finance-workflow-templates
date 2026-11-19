@@ -1,6 +1,6 @@
-# Annual operating budget: an invented example
+# Annual operating budget: an example
 
-*Illustrative example with invented data.* The company, the people and every figure below are invented. Company K is an invented sign maker with about 40 people in three teams. Its finance lead prepares the draft 2027 budget for the managing director's budget meeting. People are referred to by role.
+*Illustrative example with sample data.* The company, the people and every figure below are illustrative. Company K is an illustrative sign maker with about 40 people in three teams. Its finance lead prepares the draft 2027 budget for the managing director's budget meeting. People are referred to by role.
 
 The inputs come first, in full, so the template can be run on them. The draft budget follows.
 

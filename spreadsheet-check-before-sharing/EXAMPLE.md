@@ -1,6 +1,6 @@
-# Spreadsheet check before sharing: an invented example
+# Spreadsheet check before sharing: an example
 
-*Illustrative example with invented data.* The company, the people, the bank and every figure below are invented. Coldwater Joinery is an invented 30-person joinery workshop applying to its bank for an equipment loan. Its finance manager built a three-year projection and is about to send it to the bank's lending officer. People are referred to by role.
+*Illustrative example with sample data.* The company, the people, the bank and every figure below are illustrative. Coldwater Joinery is an illustrative 30-person joinery workshop applying to its bank for an equipment loan. Its finance manager built a three-year projection and is about to send it to the bank's lending officer. People are referred to by role.
 
 The inputs come first, in full, so the template can be run on them. The report follows.
 

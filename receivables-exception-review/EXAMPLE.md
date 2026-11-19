@@ -1,6 +1,6 @@
-# Receivables exception review: an invented example
+# Receivables exception review: an example
 
-*Illustrative example with invented data.* One week at an invented 60-person professional-services firm, after five receipts totalling \$16,100.
+*Illustrative example with sample data.* One week at an illustrative 60-person professional-services firm, after five receipts totalling \$16,100.
 
 **Receivables exceptions for the controller: 25 September 2026**
 

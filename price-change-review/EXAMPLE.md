@@ -1,6 +1,6 @@
-# Price change review: an invented example
+# Price change review: an example
 
-*Illustrative example with invented data.* The business, the competitors, the people and every figure below are invented. Tallowmere Soap Works is an invented eight-person maker of soap, candles and hand cream that sells online and to gift shops. Its supplier costs rose through the year, and the owner is weighing a new price list. The bookkeeper runs the review for the owner. Competitors are called Competitor A, B and C, and people are referred to by role.
+*Illustrative example with sample data.* The business, the competitors, the people and every figure below are illustrative. Tallowmere Soap Works is an illustrative eight-person maker of soap, candles and hand cream that sells online and to gift shops. Its supplier costs rose through the year, and the owner is weighing a new price list. The bookkeeper runs the review for the owner. Competitors are called Competitor A, B and C, and people are referred to by role.
 
 The inputs come first, in full, so the template can be run on them. The review follows.
 

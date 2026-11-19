@@ -1,10 +1,10 @@
-# Trial of "Job cost review at completion" on its invented example
+# Trial of "Job cost review at completion" on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-12
 
-This is the second trial run of this template on 12 November 2026. The first ran on the earlier wording and found the points that the template now fixes; this run follows the revised instruction block and output format in `member/template.md`. It used only the invented inputs from `public/example.md` (the J-2417 estimate, job-cost export, change orders, open commitments and settings, now including the four file names). No client data was used. I did not write the template.
+This is the second trial run of this template on 12 November 2026. The first ran on the earlier wording and found the points that the template now fixes; this run follows the revised instruction block and output format in `member/template.md`. It used only the sample inputs from `public/example.md` (the J-2417 estimate, job-cost export, change orders, open commitments and settings, now including the four file names). No client data was used. I did not write the template.
 
 ## A limit on this trial
 

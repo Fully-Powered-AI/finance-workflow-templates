@@ -1,6 +1,6 @@
-# Overdue-invoice follow-up preparation: an invented example
+# Overdue-invoice follow-up preparation: an example
 
-*Illustrative example with invented data.* Follow-up plan as of 25 September 2026 at an invented 60-person professional-services firm.
+*Illustrative example with sample data.* Follow-up plan as of 25 September 2026 at an illustrative 60-person professional-services firm.
 
 | Invoice | Amount | Days past due | Action | From, or released by |
 |----|----|----|----|----|
@@ -11,7 +11,7 @@
 | 1044, Client D | \$5,600 | 5 | Held. May be paid by the 23 Sep wire. | Controller releases it once the wire is identified |
 | 1045, Client F | \$5,600 | 5 | Held. May be paid by the 23 Sep wire. | Controller releases it once the wire is identified |
 
-*Illustrative example with invented data.* Draft for 1036, for the billing coordinator to review and send.
+*Illustrative example with sample data.* Draft for 1036, for the billing coordinator to review and send.
 
 ```
 To: [Client G payables contact]   Cc: [Account lead]

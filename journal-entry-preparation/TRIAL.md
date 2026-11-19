@@ -1,11 +1,11 @@
-# Journal entry preparation: a trial on the invented example
+# Journal entry preparation: a trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-09
 - **Template version:** 0.1.0
 
-This is a record of one run of the workflow template on its own invented example. The inputs are the invented ones for Harrow Lane Studio; no client data was used. Nothing was posted, approved, reversed or sent.
+This is a record of one run of the workflow template on its own example. The inputs are the sample ones for Harrow Lane Studio; no client data was used. Nothing was posted, approved, reversed or sent.
 
 This is the second run on the same example. An earlier run the same day, by Claude Sonnet 5.5, a model that had not written the template, matched the example on every figure, status, flag and approver, and showed where the instructions left room to guess. After an independent review the template was revised and two lines of the example's package were changed to follow it (see "The earlier run, and what was changed" at the end). The run recorded here was made on the revised template.
 
@@ -13,7 +13,7 @@ This is the second run on the same example. An earlier run the same day, by Clau
 
 ## Inputs used
 
-The five inputs in [the example](example.md), under "The inputs", exactly as published there: the settings (including "September 2026: closed"), the entry request list (R1 to R7), the chart of accounts export, the posted lines for the period, and the supporting documents S1 to S6. No column map was used. On 10 November 2026, after this run, the electricity supplier in R7, S6 and BILL-1043, whose invented name had turned out to be the trading name of a real utility, was renamed "Utility U" in the example's inputs and in the output below; nothing else in the output was changed.
+The five inputs in [the example](example.md), under "The inputs", exactly as published there: the settings (including "September 2026: closed"), the entry request list (R1 to R7), the chart of accounts export, the posted lines for the period, and the supporting documents S1 to S6. No column map was used. On 10 November 2026, after this run, the electricity supplier in R7, S6 and BILL-1043, whose sample name had turned out to be the trading name of a real utility, was renamed "Utility U" in the example's inputs and in the output below; nothing else in the output was changed.
 
 ## What came out
 

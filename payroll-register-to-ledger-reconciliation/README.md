@@ -8,7 +8,7 @@ Agree the payroll register to the ledger at period end: gross pay, employer taxe
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/payroll-register-to-ledger-reconciliation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-payroll-register-to-ledger-reconciliation&from=gh-payroll-register-to-ledger-reconcilia)*
@@ -46,7 +46,7 @@ One worksheet in a fixed order: the checks on both sources; the result line by l
 
 A good worksheet lets the controller follow every figure to a row in one of the files, and see in one line why each item sits where it does.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -71,7 +71,7 @@ It stays apart from its neighbours. [Payroll preparation and timesheet review](h
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 12 November 2026. It was tried once on its invented example in Claude on 12 November 2026, and the record is published alongside it. A few clarifications were made to the workflow template after that trial and have not been run again. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 12 November 2026. It was tried once on its example in Claude on 12 November 2026, and the record is published alongside it. A few clarifications were made to the workflow template after that trial and have not been run again. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three past months your controller has already reconciled by hand, plus hard cases written in advance, each with the expected result: a run posted after the period end, a deduction code mapped to the wage account, an off-cycle run that never reached the ledger, a manual journal with no support, a register exported one row per employee. The controller compares every figure with the signed reconciliation before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-payroll-register-to-ledger-reconciliation&from=gh-payroll-register-to-ledger-reconcilia) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-payroll-register-to-ledger-reconciliation&from=gh-payroll-register-to-ledger-reconcilia) describes the record we keep.
 
@@ -79,13 +79,13 @@ Testing in your environment means running it on two or three past months your co
 - Sources and rights reviewed.
 - Editorially reviewed on 12 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 12 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 12 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

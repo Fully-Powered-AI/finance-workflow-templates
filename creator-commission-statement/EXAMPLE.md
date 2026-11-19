@@ -1,6 +1,6 @@
-# Creator commission statement: an invented example
+# Creator commission statement: an example
 
-*Illustrative example with invented data.* The brand, the creators, the codes, the orders and the amounts below are all invented, and the email addresses use the reserved example.com domain. The brand is an invented 12-person online candle and home-fragrance shop with a creator programme of six creators, run by a programme lead and paid by a finance lead, with the owner approving each statement. First come the inputs the finance lead supplied, in full, then the statement the workflow template returned.
+*Illustrative example with sample data.* The brand, the creators, the codes, the orders and the amounts below are all illustrative, and the email addresses use the reserved example.com domain. The brand is an illustrative 12-person online candle and home-fragrance shop with a creator programme of six creators, run by a programme lead and paid by a finance lead, with the owner approving each statement. First come the inputs the finance lead supplied, in full, then the statement the workflow template returned.
 
 ## The inputs
 

@@ -1,10 +1,10 @@
-# Bank reconciliation preparation: trial on the invented example
+# Bank reconciliation preparation: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-09
 
-The inputs are the invented example in `public/example.md` (Tallow Street Bakery, operating account ending 4417, October 2026): its settings, the bank statement export, the ledger export and the September open items. No client data was used. The model that ran this did not write the template. It read the template and the example's inputs only, followed the instruction block and the output format, and compared its sheet with the example's sheet afterwards.
+The inputs are the example in `public/example.md` (Tallow Street Bakery, operating account ending 4417, October 2026): its settings, the bank statement export, the ledger export and the September open items. No client data was used. The model that ran this did not write the template. It read the template and the example's inputs only, followed the instruction block and the output format, and compared its sheet with the example's sheet afterwards.
 
 **Edited after this run, 9 November 2026.** Following the independent review, the template and the example were edited after the run recorded here, and the run was not repeated. The output and the observations below are left as recorded, so where they describe the template or the example they describe them as they were at the time of the run. What changed:
 

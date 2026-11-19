@@ -1,6 +1,6 @@
-# Payroll register to ledger reconciliation: an invented example
+# Payroll register to ledger reconciliation: an example
 
-*Illustrative example with invented data.* The company, the people, the pay runs, the journals and the figures below are all invented. Company M is an invented 60-person building maintenance contractor that pays its staff every two weeks through an outside payroll provider, whose integration posts each run to the ledger. The size, the pay schedule and the integration are framing only; they are not in the inputs. Its controller wants October's payroll agreed to the books before the month is signed off. First come the inputs the staff accountant supplied, in full, then the worksheet the workflow template returned.
+*Illustrative example with sample data.* The company, the people, the pay runs, the journals and the figures below are all illustrative. Company M is an illustrative 60-person building maintenance contractor that pays its staff every two weeks through an outside payroll provider, whose integration posts each run to the ledger. The size, the pay schedule and the integration are framing only; they are not in the inputs. Its controller wants October's payroll agreed to the books before the month is signed off. First come the inputs the staff accountant supplied, in full, then the worksheet the workflow template returned.
 
 ## The inputs
 

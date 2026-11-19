@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-This run used only the invented inputs from the worked example (`public/example.md`): the settings, the sales export, the cost export, the proposed changes, the five competitor prices, the one earlier price change and the price commitment for Tallowmere Soap Works, an invented business. No client data was used. The assistant that ran it did not write the template. It followed the instruction block and the output format in `member/template.md`, and it did not read the example's output until its own review was finished.
+This run used only the sample inputs from the worked example (`public/example.md`): the settings, the sales export, the cost export, the proposed changes, the five competitor prices, the one earlier price change and the price commitment for Tallowmere Soap Works, an illustrative business. No client data was used. The assistant that ran it did not write the template. It followed the instruction block and the output format in `member/template.md`, and it did not read the example's output until its own review was finished.
 
 ## What came out
 
@@ -100,7 +100,7 @@ Prepared for the owner's decision. It recommends no price. No price, price list 
   - The fixed-format placeholders in square brackets, such as "[your competitor age limit, default 90 days]", appear in the procedure but not in the format, so the assistant has to see that they are settings.
   - The earlier price change falls outside the sales period (1 March 2025), so the "inside the period" note and question were correctly not triggered. The template does not say what to write about an earlier change that is outside the period beyond the standard label.
 - **Things it declined or stopped for.** None. The inputs did not ask for a price recommendation, a change to any record, or a competitor lookup, so those refusals were not exercised.
-- **Not covered.** This was one run on one invented example, in one product. The acceptance tests for a missing header, a zero cost, a price cut, a competitor price with no date, an earlier change inside the period and the three refusals were not run. The template has not been tested in a client environment.
+- **Not covered.** This was one run on one example, in one product. The acceptance tests for a missing header, a zero cost, a price cut, a competitor price with no date, an earlier change inside the period and the three refusals were not run. The template has not been tested in a client environment.
 
 ## Edits made after this run
 

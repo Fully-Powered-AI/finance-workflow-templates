@@ -1,6 +1,6 @@
-# Investor update: an invented example
+# Investor update: an example
 
-*Illustrative example with invented data.* The company, its customers, its people, its investors and every figure below are invented. Quellinby Routes is an invented 18-person company selling route-planning software to bakeries and food wholesalers. Its founder and CEO sends investors an update each month; the finance lead, who works part time, owns the reports. People are referred to by role.
+*Illustrative example with sample data.* The company, its customers, its people, its investors and every figure below are illustrative. Quellinby Routes is an illustrative 18-person company selling route-planning software to bakeries and food wholesalers. Its founder and CEO sends investors an update each month; the finance lead, who works part time, owns the reports. People are referred to by role.
 
 The inputs come first, in full, so the template can be run on them. The draft the workflow template prepares follows.
 

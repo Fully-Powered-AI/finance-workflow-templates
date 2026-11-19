@@ -1,6 +1,6 @@
-# Bank reconciliation preparation: an invented example
+# Bank reconciliation preparation: an example
 
-*Illustrative example with invented data.* The business, the suppliers, the bank, every row and every figure below are invented. Tallow Street Bakery is an invented bakery with two shops and a wholesale round to local cafés. Its bookkeeper reconciles the operating account for October 2026, and its outside accountant reviews and signs. People are referred to by role and suppliers by letter.
+*Illustrative example with sample data.* The business, the suppliers, the bank, every row and every figure below are illustrative. Tallow Street Bakery is an illustrative bakery with two shops and a wholesale round to local cafés. Its bookkeeper reconciles the operating account for October 2026, and its outside accountant reviews and signs. People are referred to by role and suppliers by letter.
 
 The inputs come first, in full, so the template can be run on them. The reconciliation sheet follows.
 

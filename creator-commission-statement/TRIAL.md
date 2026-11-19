@@ -1,10 +1,10 @@
-# Creator commission statement: one run on its invented example
+# Creator commission statement: one run on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-09
 
-The inputs are the invented example in `public/example.md` (sections 1 to 7 under "The inputs"). No client data was used. The assistant had not written the template. It followed the fenced instruction block and the output format in `member/template.md` on those inputs, and only afterwards compared its result with the example's statement and the reviewer checklist.
+The inputs are the example in `public/example.md` (sections 1 to 7 under "The inputs"). No client data was used. The assistant had not written the template. It followed the fenced instruction block and the output format in `member/template.md` on those inputs, and only afterwards compared its result with the example's statement and the reviewer checklist.
 
 ## What came out
 
@@ -103,8 +103,8 @@ Prepared on 2026-11-02. Every figure comes from the inputs listed under Coverage
 - **Shortcomings of the fenced block.**
   - The block says to use "the output format exactly" but the format is outside the block. Pasted alone into an assistant, it lacks the format, so the person must paste both.
   - The block leaves out some rules the procedure states: the Coverage line when `Canceled at` is absent; a milestone on a commission-only deal goes to a person; a fee deal with a milestone and no flat fee is not assessed.
-- **Reviewer checklist.** Checked against this output: the rates and thresholds match the rules (1); each creator's figures recompute from the orders (2); the order check adds up (3); no order was attributed by judgment and both unattributed codes are listed (4); each excluded order has one listed reason (5); nothing below the minimum is on the payout list and both carried amounts are noted (6); no customer name or email appears, and creator names appear only because the payout list asks for a name (7); the statement is final, so item 8 does not arise. The store's own order count (item 3) cannot be checked on invented data.
-- **What this does not show.** It is one run, by one model, on one invented example. It is not a test in a client environment and does not show how other products or other exports behave.
+- **Reviewer checklist.** Checked against this output: the rates and thresholds match the rules (1); each creator's figures recompute from the orders (2); the order check adds up (3); no order was attributed by judgment and both unattributed codes are listed (4); each excluded order has one listed reason (5); nothing below the minimum is on the payout list and both carried amounts are noted (6); no customer name or email appears, and creator names appear only because the payout list asks for a name (7); the statement is final, so item 8 does not arise. The store's own order count (item 3) cannot be checked on sample data.
+- **What this does not show.** It is one run, by one model, on one example. It is not a test in a client environment and does not show how other products or other exports behave.
 
 ## Changed after the run recorded above, and not run again
 

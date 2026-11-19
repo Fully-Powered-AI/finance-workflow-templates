@@ -1,10 +1,10 @@
-# Spreadsheet check before sharing: one run on its invented example
+# Spreadsheet check before sharing: one run on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-09
 
-The inputs are the invented example in `public/example.md` (Coldwater Joinery, an invented workshop). No client data was used. The run used the sending note, the workbook structure note and the four pasted ranges (Projection and Summary, each as formulas and as values).
+The inputs are the example in `public/example.md` (Coldwater Joinery, an illustrative workshop). No client data was used. The run used the sending note, the workbook structure note and the four pasted ranges (Projection and Summary, each as formulas and as values).
 
 The run was a fresh session with no tools and no file access. Its instructions were the template's instruction block followed by its output format, as the template says to paste them, and its one message was the example's inputs. It did not see the rest of the template or the example's report. The session that made the template's last edits (Claude Opus 5.5) started the run and compared its report with the example's afterwards; the comparison below is that session's.
 

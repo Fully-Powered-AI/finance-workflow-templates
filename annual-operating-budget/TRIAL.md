@@ -4,7 +4,7 @@
 
 Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). Date: 2026-11-10.
 
-This run used the invented example's inputs (Company K, the invented sign maker). No client data was used. The run was done by an assistant that did not write the template. It read the template and the example's inputs first, produced the budget by following the instructions block and the output format, and only then compared its result with the example's published output and the reviewer checklist.
+This run used the example's inputs (Company K, the illustrative sign maker). No client data was used. The run was done by an assistant that did not write the template. It read the template and the example's inputs first, produced the budget by following the instructions block and the output format, and only then compared its result with the example's published output and the reviewer checklist.
 
 ## Inputs used
 
@@ -191,7 +191,7 @@ Draft for the finance lead's review and managing director's approval. No submitt
   8. The format says the draft is "prepared by the [role] ... for the [finance lead role]'s review". Here the finance lead prepares it, so the line reads as preparing it for their own review. The example repeats it unchanged.
   9. The format shows amounts in brackets without saying whether to write a currency symbol in the tables; the example uses dollar signs, mine did not.
   10. In the instructions block, the recompute rule drops the "same as this year" and "a change on this year's figure" driver forms that the procedure lists, so an assistant using only the block might write "not recomputed" for them.
-- **Shortcomings of this trial.** It is one run on one invented example with no stop condition, refusal, people-cost-in-submission case or header mismatch in it, so those parts of the template are untried. The acceptance tests in the template have not been run. The arithmetic was done in a script written for the run, not by the model alone, so this does not show how the model does the sums without one. The run was by the product named above only.
+- **Shortcomings of this trial.** It is one run on one example with no stop condition, refusal, people-cost-in-submission case or header mismatch in it, so those parts of the template are untried. The acceptance tests in the template have not been run. The arithmetic was done in a script written for the run, not by the model alone, so this does not show how the model does the sums without one. The run was by the product named above only.
 
 ## Changed after this run, and not run again
 

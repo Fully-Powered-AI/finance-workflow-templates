@@ -333,4 +333,4 @@ decides.
 
 ## Version notes
 
-- 0.1.0, 12 November 2026. Written by FullyPowered AI. Tried once on its invented example in Claude on 12 November 2026, with the record published alongside. A few clarifications were made after that trial (the payment date asked once, short invoice numbers, the start time, conditional statements, the weekday check, who reissues an invoice, copies on request) and have not been run again. Not tested in a client environment.
+- 0.1.0, 12 November 2026. Written by FullyPowered AI. Tried once on its example in Claude on 12 November 2026, with the record published alongside. A few clarifications were made after that trial (the payment date asked once, short invoice numbers, the start time, conditional statements, the weekday check, who reissues an invoice, copies on request) and have not been run again. Not tested in a client environment.

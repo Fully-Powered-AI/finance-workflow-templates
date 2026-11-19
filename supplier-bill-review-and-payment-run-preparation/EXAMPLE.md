@@ -1,6 +1,6 @@
-# Supplier bill review and payment-run preparation: an invented example
+# Supplier bill review and payment-run preparation: an example
 
-*Illustrative example with invented data.* The company, the suppliers, the bills and every figure below are invented. Larkfield Fit-Out is an invented 35-person company that fits out commercial kitchens. Its payables clerk prepares the fortnightly payment run of Thursday 12 November 2026 for the owner to approve. People are referred to by role and suppliers by letter.
+*Illustrative example with sample data.* The company, the suppliers, the bills and every figure below are illustrative. Larkfield Fit-Out is an illustrative 35-person company that fits out commercial kitchens. Its payables clerk prepares the fortnightly payment run of Thursday 12 November 2026 for the owner to approve. People are referred to by role and suppliers by letter.
 
 The inputs come first, in full, so the template can be run on them. The payment-run sheet follows.
 

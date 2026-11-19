@@ -1,10 +1,10 @@
-# Collections call brief: one trial on the invented example
+# Collections call brief: one trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID `claude-sonnet-5-5`)
 - **Date:** 2026-11-12
 
-The inputs were the invented example in [example.md](example.md): the settings, the open items, the payments, the contact log, the contacts, the disputes file, the collections terms and the caller's notes. No client data was used. The run was a single pass, done once, by a model that did not write the template. The model read the template and the example's inputs first, produced both parts of the output, and only then read the example's published output to compare.
+The inputs were the example in [example.md](example.md): the settings, the open items, the payments, the contact log, the contacts, the disputes file, the collections terms and the caller's notes. No client data was used. The run was a single pass, done once, by a model that did not write the template. The model read the template and the example's inputs first, produced both parts of the output, and only then read the example's published output to compare.
 
 ## What came out
 

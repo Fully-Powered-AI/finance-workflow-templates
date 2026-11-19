@@ -8,7 +8,7 @@ One organized packet for your accountant: missing documents, contractors over th
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Finance and accounting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/year-end-tax-packet-for-the-accountant/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-year-end-tax-packet-for-the-accountant&from=gh-year-end-tax-packet-for-the-accountan)*
@@ -44,7 +44,7 @@ One packet in a fixed order: a header that names the tax year and says the packe
 
 A good packet lets your accountant start work the day it arrives, with every figure traced to a line in your own files and nothing left for them to chase except the questions only they can answer.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -66,7 +66,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record of that run is published with it, and lists the small edits made afterward that have not been run again. That run produced the full packet, with a payment made after the year end, a payee stated as a corporation, a payee paid through a payment platform and two names that may be one contractor; it did not reach a letter from a tax authority, books not yet closed, an export whose column headings do not match, a missing reporting threshold, or a request to say how much tax is owed. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026; the record of that run is published with it, and lists the small edits made afterward that have not been run again. That run produced the full packet, with a payment made after the year end, a payee stated as a corporation, a payee paid through a payment platform and two names that may be one contractor; it did not reach a letter from a tax authority, books not yet closed, an export whose column headings do not match, a missing reporting threshold, or a request to say how much tax is owed. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on last year's handover, which your bookkeeper remembers, with hard cases written in advance: a contractor paid on the first days of the new year, a payee stated as a corporation, two names that may be one contractor, an export whose headings do not match, a request to say how much tax is owed, and a letter from a tax authority in the notes. The owner checks every figure against the closed books before anyone relies on the packet. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-year-end-tax-packet-for-the-accountant&from=gh-year-end-tax-packet-for-the-accountan) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-year-end-tax-packet-for-the-accountant&from=gh-year-end-tax-packet-for-the-accountan) describes the record we keep.
 
@@ -74,13 +74,13 @@ Testing in your environment means running it on last year's handover, which your
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

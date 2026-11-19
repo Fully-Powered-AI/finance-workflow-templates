@@ -1,6 +1,6 @@
-# Audit preparation: an invented example
+# Audit preparation: an example
 
-*Illustrative example with invented data.* The company, the audit, the suppliers, every row and every figure below are invented. The company is an invented 60-person maker of commercial kitchen equipment, called "the Company" here, with a year end of 30 September. Its finance team is a controller, a staff accountant, a payables clerk and a part-time payroll administrator, reporting to the chief executive. Suppliers are referred to by letter and people by role. The external auditors sent their request list two weeks ago, and the controller runs the pack on Monday 9 November 2026.
+*Illustrative example with sample data.* The company, the audit, the suppliers, every row and every figure below are illustrative. The company is an illustrative 60-person maker of commercial kitchen equipment, called "the Company" here, with a year end of 30 September. Its finance team is a controller, a staff accountant, a payables clerk and a part-time payroll administrator, reporting to the chief executive. Suppliers are referred to by letter and people by role. The external auditors sent their request list two weeks ago, and the controller runs the pack on Monday 9 November 2026.
 
 The inputs come first, in full, so the template can be run on them. The pack follows.
 

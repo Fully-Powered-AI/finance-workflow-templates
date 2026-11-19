@@ -1,10 +1,10 @@
-# Thirteen-week cash flow forecast: trial on the invented example
+# Thirteen-week cash flow forecast: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5). It did not write the template.
 - **Date:** 2026-11-09
 
-The inputs for this run are the invented Kestrelmoor Signworks example in [`example.md`](example.md) (settings, receivables, paid invoices, committed sales, pipeline, payables, recurring list, other known items, card statements and paid bills). No client data was used. The run followed the instruction block and output format in the member template as written, using only those inputs. The example's own output was read only after this output was finished.
+The inputs for this run are the illustrative Kestrelmoor Signworks example in [`example.md`](example.md) (settings, receivables, paid invoices, committed sales, pipeline, payables, recurring list, other known items, card statements and paid bills). No client data was used. The run followed the instruction block and output format in the member template as written, using only those inputs. The example's own output was read only after this output was finished.
 
 ## What came out
 

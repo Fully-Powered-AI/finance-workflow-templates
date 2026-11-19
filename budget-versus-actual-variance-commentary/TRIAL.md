@@ -1,10 +1,10 @@
-# Budget-versus-actual variance commentary: a trial on the invented example
+# Budget-versus-actual variance commentary: a trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-09
 
-The inputs for this run are the invented example's inputs (the Fernhollow Print October 2026 settings, export, budget owners' notes and driver figures in `public/example.md`). No client data was used. The run was made by a model that did not write the template. It read the template and only the inputs of the example, followed the instruction block and the output format, and compared its result with the published example afterwards.
+The inputs for this run are the example's inputs (the Fernhollow Print October 2026 settings, export, budget owners' notes and driver figures in `public/example.md`). No client data was used. The run was made by a model that did not write the template. It read the template and only the inputs of the example, followed the instruction block and the output format, and compared its result with the published example afterwards.
 
 ## What came out
 
@@ -114,7 +114,7 @@ No fact appears in either output that is not in the inputs or derived from them 
 
 Nothing in the run was a defect that changed a figure. The template was followed to the end without stopping, and the output came out in the format asked for.
 
-This was one run by one model on an invented example. It shows the template can be followed on that example; it is not a test in a client's environment.
+This was one run by one model on an example. It shows the template can be followed on that example; it is not a test in a client's environment.
 
 ## Changed after this run, and not run again
 
