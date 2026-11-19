@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for finance and accounting teams turn the AI you
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for finance and accounting teams](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-readme&from=gh-finance-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-readme&from=gh-finance-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for finance and accounting teams](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-readme&from=gh-finance-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-readme&from=gh-finance-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,18 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Prepare for a collections call in a few minutes.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into it, replace the square brackets with your own account details, and send it. You need no sign-in here and nothing to download. Use an account you already have open in your accounting system.
 
    ```text
-   You are helping a credit controller prepare to phone a business customer about overdue invoices. I will paste the open invoices, recent payments, earlier contact notes, known disputes and our written collections terms: [paste them here]. Today's date is [date] and the ledger balance is [amount]. First check that the open items add up to that balance, and stop and tell me if they do not. Then write one page: who to ask for, every open invoice oldest first with days overdue, each earlier promise marked kept, part kept, broken or pending, open disputes and unused credits, and numbered questions to settle on the call. Quote what I may offer from my terms only. Never invent a fact, threaten anything or offer anything my terms do not allow. I make the call and decide. Nothing is sent or changed.
+   You are helping a credit controller prepare to phone a business customer
+   about overdue invoices. I will paste the open invoices, recent payments,
+   earlier contact notes, known disputes and our written collections terms:
+   [paste them here]. Today's date is [date] and the ledger balance is
+   [amount]. First check that the open items add up to that balance, and
+   stop and tell me if they do not. Then write one page: who to ask for,
+   every open invoice oldest first with days overdue, each earlier promise
+   marked kept, part kept, broken or pending, open disputes and unused
+   credits, and numbered questions to settle on the call. Quote what I may
+   offer from my terms only. Never invent a fact, threaten anything or
+   offer anything my terms do not allow. I make the call and decide.
+   Nothing is sent or changed.
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes out, with invented data:

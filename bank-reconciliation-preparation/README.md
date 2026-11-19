@@ -3,7 +3,7 @@
 Get one account's statement lines matched, open items aged and a two-balance proof ready for review. A person approves every entry; nothing is posted.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Bank reconciliation preparation on our website](https://fullypowered.ai/workflows/bank-reconciliation-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-bank-reconciliation-preparation&from=gh-bank-reconciliation-preparation) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Bank reconciliation preparation on our website](https://fullypowered.ai/workflows/bank-reconciliation-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-bank-reconciliation-preparation&from=gh-bank-reconciliation-preparation). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 

@@ -3,7 +3,7 @@
 Get one sheet before each payroll run: hours by person, missing punches raised as questions, an estimated total. A person approves before anything is paid.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Payroll preparation and timesheet review on our website](https://fullypowered.ai/workflows/payroll-preparation-and-timesheet-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-payroll-preparation-and-timesheet-review&from=gh-payroll-preparation-and-timesheet-rev) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Payroll preparation and timesheet review on our website](https://fullypowered.ai/workflows/payroll-preparation-and-timesheet-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-payroll-preparation-and-timesheet-review&from=gh-payroll-preparation-and-timesheet-rev). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 

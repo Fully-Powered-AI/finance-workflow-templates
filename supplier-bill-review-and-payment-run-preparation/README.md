@@ -3,7 +3,7 @@
 Check every supplier bill against its purchase order and receipts, stop duplicates and changed bank details, and propose a run. A person approves.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Supplier bill review and payment-run preparation on our website](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-supplier-bill-review-and-payment-run-preparation&from=gh-supplier-bill-review-and-payment-run) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Supplier bill review and payment-run preparation on our website](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=finance-supplier-bill-review-and-payment-run-preparation&from=gh-supplier-bill-review-and-payment-run). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 
